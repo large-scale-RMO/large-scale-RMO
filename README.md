@@ -30,8 +30,8 @@ orthogonal\_DNN\_optimization/
 ./<模型目录>/rsamo/
 
 - 运行指令：
-```python train.py
-````
+python train.py
+
 
 #### 2. RMO（Riemannian Meta-Optimization）
 
@@ -72,9 +72,8 @@ orthogonal\_DNN\_optimization/
   ```
 
 * 统一运行指令：
- ```
   python train.py
-  ```
+
 
 备注：使用传统优化方法优化ResNet50网络的优化器代码与vgg16\resnet18下的相同，可直接复制，因此不再重复赘述
 
